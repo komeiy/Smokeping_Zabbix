@@ -14,7 +14,7 @@ Ping Latency Graph
   
 HTTP Latency Graph
 ------------------
--HTTP Latency
--Percentile(50th) 
+- HTTP Latency
+- Percentile(50th) 
   
 ![HTTP Latency Graph](https://github.com/komeiy/Smokeping_Zabbix/blob/master/screenshot/http-grarh.JPG)
