@@ -3,6 +3,6 @@ Smokeping_Zabbix
 
 Zabbix Template like Smokeping(Measure icmp latency, http latancy)
 
-![Ping Latencyグラフ]https://github.com/komeiy/Smokeping_Zabbix/screenshot/Ping-graph.JPG
+![Ping Latency Graph](https://github.com/komeiy/Smokeping_Zabbix/blob/master/screenshot/ping-grarh.JPG)
   
-![HTTP Latencyグラフ]https://github.com/komeiy/Smokeping_Zabbix/screenshot/http-grarh.JPG
+![HTTP Latency Graph](https://github.com/komeiy/Smokeping_Zabbix/blob/master/screenshot/http-grarh.JPG)
